@@ -1,2 +1,2 @@
 # Data-Structure-and-Algorithms
-![2022-05-27 (1)](https://user-images.githubusercontent.com/67846170/170691110-1fd0a229-d167-4cea-8149-435525fd8e6a.png)
+![2022-05-27 (3)](https://user-images.githubusercontent.com/67846170/170694302-1cec78c2-c2dc-4edd-8e51-b86a9e2c60b8.png)
